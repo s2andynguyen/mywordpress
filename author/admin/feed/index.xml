@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>admin &#8211; Shop Hàng AZ</title>
+	<atom:link href="https://s2andynguyen.github.io/mywordpress/author/admin/feed/" rel="self" type="application/rss+xml" />
+	<link>https://s2andynguyen.github.io/mywordpress</link>
+	<description></description>
+	<lastBuildDate>Mon, 08 May 2023 07:45:24 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+	<item>
+		<title>Top 6 địa điểm du lịch siêu đẹp ở Việt Nam nhất định phải đến một lần !</title>
+		<link>https://s2andynguyen.github.io/mywordpress/top-6-dia-diem-du-lich-sieu-dep-o-viet-nam-nhat-dinh-phai-den-mot-lan/</link>
+					<comments>https://s2andynguyen.github.io/mywordpress/top-6-dia-diem-du-lich-sieu-dep-o-viet-nam-nhat-dinh-phai-den-mot-lan/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 08 May 2023 07:45:24 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://s2andynguyen.github.io/mywordpress/?p=6</guid>
+
+					<description><![CDATA[Là một quốc gia nổi tiếng với nhiều cảnh quan thiên nhiên kì vĩ, Việt Nam có nhiều điểm mạnh để phát triển du lịch. Thực vậy, ngoài các vùng đất mới mẻ ngoài lãnh thổ, nhiều tín đồ du ngoạn vẫn chọn khám phá, check-in ở những địa điểm du lịch Việt Nam. Không &#8230; <p class="link-more"><a href="https://s2andynguyen.github.io/mywordpress/top-6-dia-diem-du-lich-sieu-dep-o-viet-nam-nhat-dinh-phai-den-mot-lan/" class="more-link">Read more<span class="screen-reader-text"> "Top 6 địa điểm du lịch siêu đẹp ở Việt Nam nhất định phải đến một lần !"</span></a></p>]]></description>
+		
+					<wfw:commentRss>https://s2andynguyen.github.io/mywordpress/top-6-dia-diem-du-lich-sieu-dep-o-viet-nam-nhat-dinh-phai-den-mot-lan/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hello world!</title>
+		<link>https://s2andynguyen.github.io/mywordpress/hello-world/</link>
+					<comments>https://s2andynguyen.github.io/mywordpress/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 20 Apr 2023 09:59:13 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://s2andynguyen.github.io/mywordpress/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+		
+					<wfw:commentRss>https://s2andynguyen.github.io/mywordpress/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
