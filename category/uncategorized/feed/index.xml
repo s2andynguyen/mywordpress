@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Hotale Theme</title>
-	<atom:link href="https://s2andynguyen.github.io/mywordpress/feed/" rel="self" type="application/rss+xml" />
+	<title>Uncategorized &#8211; Hotale Theme</title>
+	<atom:link href="https://s2andynguyen.github.io/mywordpress/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>https://s2andynguyen.github.io/mywordpress</link>
 	<description></description>
 	<lastBuildDate>Mon, 08 May 2023 07:45:24 +0000</lastBuildDate>
